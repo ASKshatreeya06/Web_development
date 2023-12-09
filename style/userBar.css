@@ -1,0 +1,9 @@
+.userbar>img{
+    height: 2.5rem;
+    border-radius: 50%;
+
+}
+.userbar>span{
+    font-size: 1rem;
+    font-weight: bold;
+}

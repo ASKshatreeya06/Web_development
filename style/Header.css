@@ -1,0 +1,17 @@
+
+.navsearch{
+    position: relative;
+}
+.btn>b{
+    color: blue;
+}
+form>input{
+   text-align: center;
+    width: 350px !important;
+}
+.navsearch>svg{
+    position: absolute;
+    margin: 10px 0 0 5px;
+    font-weight: bold;
+     /* border-right: 1px solid ; */
+}
